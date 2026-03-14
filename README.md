@@ -134,7 +134,7 @@ This experience strongly influences how I approach software engineering, particu
 # 📫 Contact
 
 💼 **LinkedIn**
-[LinkedIn Profile](https://www.linkedin.com/in/german-david-lópez-orozco)
+[LinkedIn Profile](https://www.linkedin.com/in/german-david-l%C3%B3pez-orozco-0b33b61b2/overlay/contact-info/)
 
 📧 **Email**
 [gdavid.udea@gmail.com](mailto:gdavid.udea@gmail.com)
